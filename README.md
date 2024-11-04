@@ -1,4 +1,4 @@
-#  mac-nn-bench
+# 🍎 mac-nn-bench
 
 Neural network benchmarks for Mac-native deep learning frameworks.
 
