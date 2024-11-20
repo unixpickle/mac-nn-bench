@@ -8,7 +8,7 @@ These are results on an M2 Max with 32 GB of RAM
 
 | Benchmark   | MLX          | PyTorch      | Honeycrisp   | Honeycrisp + ANE |
 |-------------|--------------|--------------|--------------|------------------|
-| Transformer | 5.843 TFLOPs | 4.251 TFLOPs | 3.618 TFLOPs | 4.031 TFLOPs     |
+| Transformer | 5.843 TFLOPs | 4.251 TFLOPs | 3.845 TFLOPs | 4.317 TFLOPs     |
 
 # Running benchmarks
 

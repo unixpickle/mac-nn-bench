@@ -10,7 +10,7 @@ let package = Package(
   ],
   products: [],
   dependencies: [
-    .package(url: "https://github.com/unixpickle/honeycrisp.git", from: "0.0.3")
+    .package(url: "https://github.com/unixpickle/honeycrisp.git", from: "0.0.4")
   ],
   targets: [
     .executableTarget(
