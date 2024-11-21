@@ -21,3 +21,11 @@ $ python -m python_bench.transformer_torch
 $ swift run -c release Transformer
 $ swift run -c release TransformerANE
 ```
+
+## UNet
+
+```bash
+$ python -m python_bench.unet_mlx
+$ python -m python_bench.unet_torch
+$ swift run -c release UNet
+```
