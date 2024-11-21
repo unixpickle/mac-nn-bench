@@ -25,5 +25,11 @@ let package = Package(
         .product(name: "Honeycrisp", package: "honeycrisp")
       ]
     ),
+    .executableTarget(
+      name: "UNet",
+      dependencies: [
+        .product(name: "Honeycrisp", package: "honeycrisp")
+      ]
+    ),
   ]
 )
